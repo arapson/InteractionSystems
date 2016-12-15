@@ -1,0 +1,214 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[job()]{jobSim}
+Job {Simulator}: the 2050 {Archives} {\textbar} {Owlchemy} {Labs}.
+\newblock URL \url{http://jobsimulatorgame.com/}.
+
+\bibitem[pro()]{proprioception}
+Proprioception and {Types} of {Reflexes}.
+\newblock URL
+  \url{http://www.apsubiology.org/anatomy/2010/2010_Exam_Reviews/Exam_4_Review/CH_13_Proprioception_and_Types_of_Reflexes.htm}.
+
+\bibitem[som()]{somatosensory}
+Somatosensory receptors.
+\newblock URL
+  \url{http://www.d.umn.edu/~jfitzake/Lectures/DMED/Somatosensation/Somatosensation/Receptors.html}.
+
+\bibitem[Viv(2016)]{ViveControllers}
+Vr development, 2016.
+\newblock URL
+  \url{https://forums.unrealengine.com/showthread.php?116576-Htc-vive-non-of-the-buttons-give-any-input}.
+
+\bibitem[_co(2016)]{_color}
+Color model, October 2016.
+\newblock URL
+  \url{https://en.wikipedia.org/w/index.php?title=Color_model&oldid=746832548}.
+\newblock Page Version ID: 746832548.
+
+\bibitem[tex(2016)]{texture}
+Texture gradient, November 2016.
+\newblock URL
+  \url{https://en.wikipedia.org/w/index.php?title=Texture_gradient&oldid=748820044}.
+\newblock Page Version ID: 748820044.
+
+\bibitem[~ and ~()]{depth}
+Lauren ~ and Kayle ~.
+\newblock Depth {Perception} {Principles}.
+\newblock URL
+  \url{http://visual-perception.weebly.com/depth-perception-principles.html}.
+
+\bibitem[Acm()]{photo1_Sutherland}
+Acm.
+\newblock Ivan sutherland.
+\newblock \url{http://amturing.acm.org/photo/sutherland_3467412.cfm}.
+
+\bibitem[Anderson()]{LinearPerspective}
+Stephanie Anderson.
+\newblock Elements of design.
+\newblock URL \url{http://elements-of-design.weebly.com/space.html}.
+
+\bibitem[Bernatchez and Rober(2008)]{bernatchez}
+Marc Bernatchez and Jean-Marc Rober.
+\newblock Impack of {Spatial} {Reference} {Frames} on {Human} {Performance} in
+  {Virtual} {Reality} {User} {Interfaces}.
+\newblock \emph{Journal Of Multimedia}, Vol. 3\penalty0 (No. 5):\penalty0
+  19--32, December 2008.
+\newblock URL \url{http://academypublisher.com/jmm/vol03/no05/jmm03051932.pdf}.
+
+\bibitem[Craig et~al.(2009)Craig, Sherman, and Will]{craig}
+Alan~B. Craig, William~R. Sherman, and Jeffrey~D. Will.
+\newblock \emph{Developing {Virtual} {Reality} {Applications}}.
+\newblock Morgan Kaufmann, June 2009.
+\newblock ISBN 978-0-12-374943-7.
+\newblock URL
+  \url{http://proquest.safaribooksonline.com/book/programming/9780123749437}.
+
+\bibitem[Filippini()]{filippini}
+Giulia Filippini.
+\newblock 3d {\textbar} {GIULIA} {FILIPPINI}.
+\newblock URL \url{https://ggiuliafilippini.wordpress.com/category/3d/page/6/}.
+
+\bibitem[Fuchs et~al.(2011)Fuchs, Moreau, and Guitton]{fuchs}
+Philippe Fuchs, Guillaume Moreau, and Pascal Guitton.
+\newblock \emph{Virtual {Reality}: {Concepts} and {Technologies}}.
+\newblock CRC Press, July 2011.
+\newblock ISBN 978-0-415-68471-2.
+\newblock URL
+  \url{http://proquest.safaribooksonline.com/book/electrical-engineering/computer-engineering/9780203802953}.
+
+\bibitem[Ganesan()]{ganesan}
+Aravind Ganesan.
+\newblock Haptics technology.
+\newblock URL
+  \url{http://www.slideshare.net/41907112302/haptics-technology-41286512}.
+
+\bibitem[Gobbetti and Scateni(1998)]{gobbetti}
+Enrico Gobbetti and Riccardo Scateni.
+\newblock Virtual reality: {Past}, present, and future.
+\newblock \emph{Virtual environments in clinical psychology and neuroscience:
+  Methods and techniques in advanced patient-therapist interaction}, pages
+  1--31, 1998.
+\newblock URL \url{http://www.p-arch.it/handle/11050/682}.
+
+\bibitem[Hamilton(2016)]{GUI}
+Kirk Hamilton.
+\newblock Htc vive vs. oculus rift: The comparison we had to make, Apr 18 2016.
+\newblock URL
+  \url{http://www.kotaku.com.au/2016/04/htc-vive-vs-oculus-rift-the-comparison-we-had-to-make/}.
+
+\bibitem[Lavieri(2015)]{lavieri}
+Dr~Edward Lavieri.
+\newblock \emph{Getting {Started} with {Unity} 5}.
+\newblock Packt Publishing, May 2015.
+\newblock ISBN 978-1-78439-831-6.
+\newblock URL
+  \url{http://proquest.safaribooksonline.com/book/programming/game-programming/9781784398316}.
+
+\bibitem[Linowes(2015)]{linowes}
+Jonathan Linowes.
+\newblock \emph{Unity {Virtual} {Reality} {Projects}}.
+\newblock Packt Publishing, September 2015.
+\newblock ISBN 978-1-78528-680-3.
+\newblock URL
+  \url{http://proquest.safaribooksonline.com/book/animation-and-3d/9781783988556}.
+
+\bibitem[Lukosek et~al.(2016)Lukosek, Doran, and Dickinson]{lukosek}
+Greg Lukosek, John~P. Doran, and Chris Dickinson.
+\newblock \emph{Unity 5: {Learning} {C}\# by {Developing} {Games}}.
+\newblock Packt Publishing, August 2016.
+\newblock ISBN 9781787127272.
+\newblock URL
+  \url{http://proquest.safaribooksonline.com/book/programming/csharp/9781787127272}.
+
+\bibitem[Markiewicz(2015)]{markiewicz_6_2015}
+Pete Markiewicz.
+\newblock 6 reasons vr is on everyone's lips, November 2015.
+\newblock URL
+  \url{https://owentertainment.biz/2015/11/21/6-reasons-that-virtual-reality-vr-is-suddenly-and-rightly-on-everyones-lips/}.
+
+\bibitem[Matulef(2016)]{matulef}
+Jeffrey Matulef.
+\newblock Bandai {Namco} is making a {VR} installation to tackle fear of
+  heights, April 2016.
+
+\bibitem[MiddleVR()]{CAVE}
+MiddleVR.
+\newblock What is vr?
+\newblock \url{http://www.middlevr.com/resources/what-is-vr/}.
+
+\bibitem[Mihelj and Podobnik(2012)]{mihelj_haptics}
+Matja{\v z} Mihelj and Janez Podobnik.
+\newblock Haptics for {Virtual} {Reality} and {Teleoperation}.
+\newblock In \emph{Haptics for {Virtual} {Reality} and {Teleoperation}},
+  number~64 in Intelligent {Systems}, {Control} and {Automation}: {Science} and
+  {Engineering}. Springer Netherlands, 2012.
+\newblock ISBN 978-94-007-5717-2.
+\newblock DOI: 10.1007/978-94-007-6910-6\_6.
+
+\bibitem[Mihelj et~al.(2014)Mihelj, Novak, and Begus]{mihelj_apps}
+Matja{\v z} Mihelj, Domen Novak, and Samo Begus.
+\newblock Virtual {Reality} {Technology} and {Applications}.
+\newblock In \emph{Virtual {Reality} {Technology} and {Applications}},
+  number~68 in Intelligent {Systems}, {Control} and {Automation}: {Science} and
+  {Engineering}. Springer Netherlands, 2014.
+\newblock ISBN 978-94-007-6909-0, 978-94-007-6910-6.
+
+\bibitem[Miura et~al.(2016)Miura, Yoshii, and Nakajima]{miura}
+Takayuki Miura, Akihito Yoshii, and Tatsuo Nakajima.
+\newblock Designing {Affordances} for {Virtual} {Reality}-{Based} {Services}
+  with {Natural} {User} {Interaction}.
+\newblock In Aaron Marcus, editor, \emph{Design, {User} {Experience}, and
+  {Usability}: {Technological} {Contexts}}, number 9748 in Lecture {Notes} in
+  {Computer} {Science}, pages 266--277. Springer International Publishing, July
+  2016.
+\newblock ISBN 9783319404059 9783319404066.
+\newblock URL
+  \url{http://link.springer.com/chapter/10.1007/978-3-319-40406-6_25}.
+\newblock DOI: 10.1007/978-3-319-40406-6\_25.
+
+\bibitem[NeuroVR(2006)]{sound}
+NeuroVR.
+\newblock Ivan sutherland.
+\newblock
+  \url{http://www.neurovr.org/neurovr2/index.php?option=com_content&task=view&id=34&Itemid=46},
+  December 2006.
+
+\bibitem[Norman(2013)]{norman}
+Don Norman.
+\newblock \emph{The {Design} of {Everyday} {Things}}.
+\newblock Basic Books, 2013.
+\newblock ISBN 978-0-465-06710-7.
+
+\bibitem[Parisi(2015)]{parisi}
+Tony Parisi.
+\newblock \emph{Learning {Virtual} {Reality}}.
+\newblock O'Reilly Media, Inc., November 2015.
+\newblock ISBN 978-1-4919-2283-5.
+
+\bibitem[Senson(2015)]{applications}
+Alex Senson.
+\newblock Virtual reality in healthcare: Where's the innovation?
+\newblock
+  \url{http://www.openbiomedical.org/virtual-reality-in-healthcare-wheres-the-innovation/},
+  September 2015.
+
+\bibitem[Sherman and Craig(2002)]{sherman}
+William~R. Sherman and Alan~B. Craig.
+\newblock Defining {Virtual} {Reality}.
+\newblock In \emph{Understanding {Virtual} {Reality}}. Morgan Kaufmann,
+  September 2002.
+\newblock ISBN 9780080520094.
+
+\bibitem[Walton(2016)]{walton_psvr_2016}
+Mark Walton.
+\newblock {PSVR} vs. {HTC} {Vive} vs. {Oculus} {Rift} vs. {Gear} {VR}: {Which}
+  {VR} headset should you buy?, October 2016.
+\newblock URL
+  \url{http://arstechnica.com/gaming/2016/10/best-vr-headset-2016-psvr-rift-vive/}.
+
+\end{thebibliography}

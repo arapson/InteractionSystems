@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: username.aux
+The style file: plainnat.bst
+Database file #1: references.bib
+Warning--to sort, need author or key in _color
+Warning--to sort, need author or key in texture
+Warning--to sort, need author or key in jobSim
+Warning--to sort, need author or key in proprioception
+Warning--to sort, need author or key in somatosensory
+Warning--to sort, need author or key in ViveControllers
+Warning--empty year in jobSim
+Warning--empty year in proprioception
+Warning--empty year in somatosensory
+Warning--empty year in depth
+Warning--empty year in photo1_Sutherland
+Warning--empty year in LinearPerspective
+Warning--empty year in filippini
+Warning--empty year in ganesan
+Warning--empty year in CAVE
+You've used 31 entries,
+            2773 wiz_defined-function locations,
+            765 strings with 9938 characters,
+and the built_in function-call counts, 10679 in all, are:
+= -- 964
+> -- 409
+< -- 25
++ -- 152
+- -- 121
+* -- 716
+:= -- 1549
+add.period$ -- 113
+call.type$ -- 31
+change.case$ -- 126
+chr.to.int$ -- 31
+cite$ -- 83
+duplicate$ -- 565
+empty$ -- 1076
+format.name$ -- 156
+if$ -- 2327
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 20
+newline$ -- 179
+num.names$ -- 102
+pop$ -- 378
+preamble$ -- 1
+purify$ -- 102
+quote$ -- 0
+skip$ -- 426
+stack$ -- 0
+substring$ -- 138
+swap$ -- 65
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 306
+warning$ -- 15
+while$ -- 84
+width$ -- 0
+write$ -- 412
+(There were 15 warnings)
